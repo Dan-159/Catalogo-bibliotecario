@@ -1,8 +1,17 @@
 CATALOGO BIBLIOTECARIO - ETAPA 4 (ABB + AVL + B+)
 =================================================
+ARCHIVOS DEL PROYECTO
+---------------------
+libro.h  Estructura compartida del registro Libro.
+abb.h    Interfaz y nodo del arbol binario de busqueda.
+abb.c    Insercion, busqueda, eliminacion y recorridos ABB.
+avl.h    Interfaz, nodo AVL y estadisticas de rotaciones.
+avl.c    Insercion, busqueda, eliminacion y rotaciones AVL.
 
-
-
+COMPILACION EN DEV-C++
+---------------------
+1. Abra el proyecto  o cree un proyecto de consola en C.
+2. Agregue libro.h, abb.h, abb.c, avl.h y avl.c.
 
 DISENO DEL INDICE B+
 --------------------
